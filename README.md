@@ -1,6 +1,3 @@
-Certainly, here's the complete README.md content for your Mnemonic Validator project:
-
-markdown
 
 # Mnemonic Validator
 
